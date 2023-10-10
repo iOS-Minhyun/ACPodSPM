@@ -4,8 +4,8 @@ platform :ios, '11.0'
 target 'IronSourceSwiftDemoApp' do
   # Comment the next line if you don't want to use dynamic frameworks
  use_frameworks!
-  pod 'ACPods', :path => '../'
-  pod 'IronSourceSDK'
+#  pod 'ACPods', :path => '../'
+#  pod 'IronSourceSDK'
 #  pod 'IronSourceMomentoCustomAdapter-iOS', :git => 'https://github.com/cashwalk/IronSourceMomentoCustomAdapter-iOS'
 #  pod 'MomentoIOS', :git => 'https://github.com/cashwalk/MomentoIOS'
 #  pod 'Momento_iOS', :git => 'https://github.com/momento-ads/momento-ios-sdk', :tag => '0.0.5'

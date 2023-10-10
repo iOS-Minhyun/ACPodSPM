@@ -116,7 +116,6 @@
 				471A2A381E66D27900217BE4 /* Frameworks */,
 				471A2A391E66D27900217BE4 /* Resources */,
 				8604A0FD2ACEABD7008F675A /* Embed Frameworks */,
-				077A8AD0D6C8FCD8A39551D7 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -155,6 +154,8 @@
 				Base,
 			);
 			mainGroup = 471A2A321E66D27900217BE4;
+			packageReferences = (
+			);
 			productRefGroup = 471A2A3C1E66D27900217BE4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -179,24 +180,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		077A8AD0D6C8FCD8A39551D7 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-IronSourceSwiftDemoApp/Pods-IronSourceSwiftDemoApp-frameworks.sh",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Momento_iOS/Momento_iOS.framework/Momento_iOS",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Momento_iOS.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-IronSourceSwiftDemoApp/Pods-IronSourceSwiftDemoApp-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		2943A4FF475F3F33D8AA6A00 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
