@@ -1,9 +1,9 @@
 {
   "name": "ACPods",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "summary": "A short description of ACPods.",
-  "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/iOS-Minhyun/ACPods",
+  "description": "Momento_iOS.xcframework\nMore details? Check our github page.",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -13,10 +13,19 @@
   },
   "source": {
     "git": "https://github.com/iOS-Minhyun/ACPods.git",
-    "tag": "0.1.0"
+    "tag": "0.0.2"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "11.0"
   },
-  "source_files": "ACPods/Classes/**/*"
+  "source_files": "ACPods/Classes/**/*",
+  "resources": "ACPods/Resources/**/*",
+  "dependencies": {
+    "Momento_iOS": [
+
+    ],
+    "IronSourceSDK": [
+
+    ]
+  }
 }

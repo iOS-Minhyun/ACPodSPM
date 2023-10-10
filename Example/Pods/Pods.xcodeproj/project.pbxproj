@@ -42,15 +42,15 @@
 		1208C475C6E99FCE6B0131A1D05E3F70 /* ACPods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ACPods.debug.xcconfig; sourceTree = "<group>"; };
 		2B91AD930151688B4E94B9642DE15B9A /* Pods-ACPods_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ACPods_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		2BB710275B6F8B355FE50CEB0A21A4B1 /* ACPods-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ACPods-Info.plist"; sourceTree = "<group>"; };
-		2F1B4EEED94D96544C70E132FA73E484 /* ACPods.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ACPods.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		397F41FC68855A599B1F8DE3C967573F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		2F1B4EEED94D96544C70E132FA73E484 /* ACPods.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ACPods.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		397F41FC68855A599B1F8DE3C967573F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		3BCE36E71460C52589F3F13BAF311AFB /* Pods-ACPods_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ACPods_Tests-Info.plist"; sourceTree = "<group>"; };
 		45AF4BEAD79AE501C2865A5AF7AAE943 /* Pods-ACPods_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ACPods_Tests-dummy.m"; sourceTree = "<group>"; };
 		4EAF2B8650F16AF988300415A2FAAFA0 /* Pods-ACPods_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ACPods_Example-Info.plist"; sourceTree = "<group>"; };
 		5084D210D9E52EDBC1D492C703588EE1 /* ACPods */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ACPods; path = ACPods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		57FF0DE3B4184D85F01C3159BB1712B7 /* Pods-ACPods_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ACPods_Example.modulemap"; sourceTree = "<group>"; };
 		5C886CD8BF9874B4BCA80B673BF31AF9 /* ACPods-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ACPods-dummy.m"; sourceTree = "<group>"; };
-		62C534BF05A5795B35307B0B74B20C06 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		62C534BF05A5795B35307B0B74B20C06 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		751B0312174AA5DB3409EE6ED0F0DC5D /* Pods-ACPods_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ACPods_Example-umbrella.h"; sourceTree = "<group>"; };
 		7EDE0724AB3A7500C37A355904D18656 /* Pods-ACPods_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ACPods_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 		84AC568475B3053188B41A1300713068 /* ACPods-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ACPods-umbrella.h"; sourceTree = "<group>"; };
 		89C55005D755921BB46B5CE1F004E6C2 /* ACPods-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ACPods-prefix.pch"; sourceTree = "<group>"; };
 		98973A5C40068B493DED995073DB9568 /* Pods-ACPods_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ACPods_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E3ED0B05D2498E1C9FC3BA346E45CDD /* ACPods.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ACPods.modulemap; sourceTree = "<group>"; };
 		9FD68462CE8C73737362F3F6767A76E6 /* Pods-ACPods_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ACPods_Example"; path = Pods_ACPods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4A118A691404661B48A312BCE1606ED /* Pods-ACPods_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ACPods_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -525,8 +525,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

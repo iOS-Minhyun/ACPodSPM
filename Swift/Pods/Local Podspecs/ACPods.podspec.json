@@ -1,0 +1,32 @@
+{
+  "name": "ACPods",
+  "version": "0.0.5",
+  "summary": "A short description of ACPods.",
+  "homepage": "https://github.com/iOS-Minhyun/ACPods",
+  "description": "Momento_iOS.xcframework\nMore details? Check our github page.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iOS-Minhyun": "cho.minhyun@cashwalk.io"
+  },
+  "source": {
+    "git": "https://github.com/iOS-Minhyun/ACPods.git",
+    "tag": "0.0.5"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "ACPods/Classes/**/*",
+  "resources": "ACPods/Resources/**/*",
+  "static_framework": true,
+  "dependencies": {
+    "Momento_iOS": [
+
+    ],
+    "IronSourceSDK": [
+
+    ]
+  }
+}

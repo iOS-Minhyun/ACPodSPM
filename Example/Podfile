@@ -1,9 +1,12 @@
 use_frameworks!
 
-platform :ios, '10.0'
+platform :ios, '11.0'
 
 target 'ACPods_Example' do
   pod 'ACPods', :path => '../'
+
+  pod 'Momento_iOS', :git => 'https://github.com/momento-ads/momento-ios-sdk.git'
+  pod 'IronSourceSDK'
 
   target 'ACPods_Tests' do
     inherit! :search_paths
