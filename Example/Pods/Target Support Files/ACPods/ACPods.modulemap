@@ -1,0 +1,6 @@
+framework module ACPods {
+  umbrella header "ACPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

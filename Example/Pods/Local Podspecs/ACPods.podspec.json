@@ -1,0 +1,22 @@
+{
+  "name": "ACPods",
+  "version": "0.1.0",
+  "summary": "A short description of ACPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iOS-Minhyun/ACPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iOS-Minhyun": "cho.minhyun@cashwalk.io"
+  },
+  "source": {
+    "git": "https://github.com/iOS-Minhyun/ACPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ACPods/Classes/**/*"
+}
